@@ -534,7 +534,7 @@ const Y = new d(".swiper", {
     speed: 1e3,
     effect: "gl",
     loop: !0,
-    gl: { shader: "morph-y" },
+    gl: { shader: "random" },
     navigation: { prevEl: ".swiper-button-prev", nextEl: ".swiper-button-next" },
   }),
   I = document.querySelector(".demo-shader-picker"),
