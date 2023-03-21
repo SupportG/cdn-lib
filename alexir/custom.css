@@ -150,11 +150,11 @@
 
 .demo-2 .bg-img-1 {
   background-size: auto;
-  background-image: url("https://cdn.jsdelivr.net/gh/SupportG/cdn-lib@main/alexir/1.jpg");
+  background-image: url(//cdn.jsdelivr.net/gh/SupportG/cdn-lib@main/alexir/1.jpg);
 }
 .demo-2 .bg-img-2 {
   background-size: auto;
-  background-image: url("https://cdn.jsdelivr.net/gh/SupportG/cdn-lib@main/alexir/2.jpg");
+  background-image: url(//cdn.jsdelivr.net/gh/SupportG/cdn-lib@main/alexir/1.jpg);
 }
 
 /* Animations for content elements */
